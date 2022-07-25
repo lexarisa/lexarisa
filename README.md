@@ -2,7 +2,6 @@
 
 I am a Full-Stack Developer who enjoy building things from the ground up and learning new technology to optimize and improve my program along the way  :computer:.
 
-I am currently working on an e-commerce website for a Wine Decanter business. 
 
 When I'm not coding, you can find me reading a book :books:, hiking in the mountains :mountain: :hiking_boot:, or doing yoga :lotus_position_woman:.
 
